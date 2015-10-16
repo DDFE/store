@@ -4,6 +4,6 @@
   "main": "store.js",
   "description": "本地存储实现，优先本地存储localStorage，如果浏览器不支持，优雅降级为cookie",
   "dependencies": {
-    "DDFE/cookie": "0.0.1"
+    "DDFE/cookie": "0.0.2"
   }
 }
